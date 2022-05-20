@@ -7,7 +7,7 @@ This repo contains two implementations:
 
 # What are ERC4973 tokens?
 
-ERC4973 is a (draft) token standard for non-transferrable NFTs, also known as account-bound tokens (ABTs) or soulbound tokens. In other words, ABT is a NFT bound to a single account (wallet) and cannot be transferred between accounts (wallets).
+ERC4973 is a [token standard](https://eips.ethereum.org/EIPS/eip-4973) for non-transferrable NFTs, also known as account-bound tokens (ABTs) or soulbound tokens. In other words, ABT is a NFT bound to a single account (wallet) and cannot be transferred between accounts (wallets).
 
 # Why ERC4973 tokens?
 
